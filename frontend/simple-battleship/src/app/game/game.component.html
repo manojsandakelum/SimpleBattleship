@@ -1,0 +1,20 @@
+<div class="game-container">
+    <h2>Battleship Game</h2>
+    <p class="status">{{ gameStatus }}</p>
+  
+   
+    <div *ngIf="grid.length > 0" class="grid-container">
+      <table class="game-grid">
+        <tr *ngFor="let row of grid; let rowIndex = index">
+          <td *ngFor="let cell of row; let colIndex = index" 
+              [ngClass]="{'hit': cell === 'H', 'ship': cell === ' ', 'miss': cell === 'M'}"
+              (click)="fireShot(rowIndex, colIndex)">
+            {{ cell }}
+          </td>
+        </tr>
+      </table>
+    </div>
+  
+    <button class="reset-btn" (click)="resetGame()">Reset Game</button>
+  </div>
+  

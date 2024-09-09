@@ -1,0 +1,16 @@
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\bin\Debug\net8.0\BattleshipService.deps.json
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\bin\Debug\net8.0\BattleshipService.dll
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\bin\Debug\net8.0\BattleshipService.pdb
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\bin\Debug\net8.0\BattleshipModel.dll
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\bin\Debug\net8.0\BattleshipModel.pdb
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\BattleshipService.csproj.AssemblyReference.cache
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\BattleshipService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\BattleshipService.AssemblyInfoInputs.cache
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\BattleshipService.AssemblyInfo.cs
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\BattleshipService.csproj.CoreCompileInputs.cache
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\BattleshipService.sourcelink.json
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\Battlesh.7221DBE7.Up2Date
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\BattleshipService.dll
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\refint\BattleshipService.dll
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\BattleshipService.pdb
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipService\obj\Debug\net8.0\ref\BattleshipService.dll

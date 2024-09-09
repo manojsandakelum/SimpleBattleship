@@ -1,0 +1,12 @@
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\bin\Debug\net8.0\BattleshipModel.deps.json
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\bin\Debug\net8.0\BattleshipModel.dll
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\bin\Debug\net8.0\BattleshipModel.pdb
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\obj\Debug\net8.0\BattleshipModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\obj\Debug\net8.0\BattleshipModel.AssemblyInfoInputs.cache
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\obj\Debug\net8.0\BattleshipModel.AssemblyInfo.cs
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\obj\Debug\net8.0\BattleshipModel.csproj.CoreCompileInputs.cache
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\obj\Debug\net8.0\BattleshipModel.sourcelink.json
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\obj\Debug\net8.0\BattleshipModel.dll
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\obj\Debug\net8.0\refint\BattleshipModel.dll
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\obj\Debug\net8.0\BattleshipModel.pdb
+C:\Samples\SimpleBattleship\backend\Battleship_srv\BattleshipModel\obj\Debug\net8.0\ref\BattleshipModel.dll

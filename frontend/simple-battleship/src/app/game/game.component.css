@@ -1,0 +1,86 @@
+/* Container */
+.game-container {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 500px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .status {
+    font-size: 18px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Grid styling */
+  .grid-container {
+    display: inline-block;
+    border: 2px solid #333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .game-grid {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .game-grid td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #555;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Colors for different states */
+  .game-grid .hit {
+    background-color: red;
+    color: white;
+  }
+  
+  .game-grid .miss {
+    background-color: lightblue;
+    color: black;
+  }
+  
+  .game-grid .ship {
+    background-color: #ccc;
+    color: black;
+  }
+  
+  /* Reset Button */
+  .reset-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .reset-btn:hover {
+    background-color: #45a049;
+  }
+  
+  .reset-btn:active {
+    background-color: #3e8e41;
+  }
+  
+  
+  .game-grid td:hover {
+    background-color: #ddd;
+  }
+  
+  .game-grid td:active {
+    background-color: #bbb;
+  }
+  
